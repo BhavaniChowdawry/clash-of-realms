@@ -29,3 +29,9 @@ Install Node.js from https://nodejs.org, open a terminal in this folder and run:
     node server.js
 
 Then open http://localhost:3000 in two browser windows to play against yourself.
+
+## Author
+
+**Bhavani Chowdary Yarlagadda**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavani-chowdary-yarlagadda-155941321) [![GitHub](https://img.shields.io/badge/GitHub-BhavaniChowdawry-181717?logo=github&logoColor=white)](https://github.com/BhavaniChowdawry)
